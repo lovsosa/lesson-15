@@ -67,3 +67,10 @@ margin-right: 10px;
 	color: black;
 	border-color: rgb(118, 118, 118);
 }
+.sidebar {
+
+}
+.sidebar__title {
+	margin: 0rem 2.8125rem 0rem 0rem;
+	padding: 3.125rem;
+}
