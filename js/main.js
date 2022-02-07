@@ -76,3 +76,4 @@ mainFormInput.addEventListener("focus", function () {
 mainFormInput.addEventListener("blur", function () {
 mainFormInput.placeholder = mainFormInputPlaceholder;
 });
+
